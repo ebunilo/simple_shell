@@ -2,5 +2,5 @@
 
 A simple UNIX command interpreter authored by:
 
-- Calistus Igwilo (ebuniloigwilo@gmail.com)
+- Ebunilo Igwilo (ebuniloigwilo@gmail.com)
 -
